@@ -3,6 +3,11 @@ Python_Test2
 
 # Running
 
-This project requires Python 3 and the requests package
 
-'python find_meteors.py'
+First install pipenv, then install then run the ```
+
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
